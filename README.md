@@ -1,2 +1,2 @@
-# exercicio-1
+# Exercicio-1
 Exercício para fixação do módulo de GitHub
